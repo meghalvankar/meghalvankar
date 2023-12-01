@@ -1,0 +1,11 @@
+#include <std.io>
+int main(){
+    int a;
+    printf("Enter a value for a");
+    scanf("%d",&a);
+    printf('d',a);
+
+    printf("HELLO WORLD");
+    pirntf("SOMETHING);
+    return 0;
+}
